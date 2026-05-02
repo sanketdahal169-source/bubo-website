@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { Users, Maximize2, Star, ArrowRight } from "lucide-react";
+import { Users, Maximize2, ArrowRight } from "lucide-react";
 import { Section, SectionHeading } from "@/components/base/Section";
 import { Card, CardBody, CardFooter } from "@/components/base/Card";
 import { Badge } from "@/components/base/Badge";

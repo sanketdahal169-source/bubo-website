@@ -32,7 +32,7 @@ export function CtaSection() {
             Ready for Your Himalayan Adventure?
           </h2>
           <p className="mt-4 text-lg text-brand-200 max-w-xl mx-auto">
-            Book your stay at Hotel Bubo Himalaya today and experience Kathmandu's
+            Book your stay at Hotel Bubo Himalaya today and experience Kathmandu&apos;s
             warmth, culture, and history.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">

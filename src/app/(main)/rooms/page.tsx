@@ -4,7 +4,6 @@ import { CheckCircle, Users, Maximize2 } from "lucide-react";
 import { Section, SectionHeading } from "@/components/base/Section";
 import { Card, CardBody, CardFooter } from "@/components/base/Card";
 import { Badge } from "@/components/base/Badge";
-import { Button } from "@/components/base/Button";
 import { ROOMS } from "@/lib/theme";
 import { formatPrice } from "@/lib/utils";
 import { BookRoomButton } from "./_components/BookRoomButton";

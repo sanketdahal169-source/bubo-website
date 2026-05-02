@@ -147,7 +147,7 @@ export function BookingModal() {
                 </Button>
 
                 <p className="text-xs text-earth-400 text-center">
-                  We'll confirm availability and contact you within 24 hours.
+                  We&apos;ll confirm availability and contact you within 24 hours.
                 </p>
               </form>
             </div>
